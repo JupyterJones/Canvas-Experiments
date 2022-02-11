@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+}
+#myCanvas{
+    background-color: aquamarine;
+    border:1px solid #d80d0d;
+    width: fit-content;
+    height: fit-content;
+}
